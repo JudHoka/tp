@@ -2,7 +2,7 @@ package ce_test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import MainFunction.ManagementSystem;
+import main.ManagementSystem;
 import org.junit.jupiter.api.Test;
 
 class PatientTest {

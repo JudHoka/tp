@@ -1,6 +1,6 @@
-import MainFunction.ManagementSystem;
-import Misc.Parser;
-import Misc.Ui;
+import main.ManagementSystem;
+import misc.Parser;
+import misc.Ui;
 
 public class ClinicEase {
     public static void main(String[] args) {
