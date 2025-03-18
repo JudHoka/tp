@@ -1,4 +1,4 @@
-package misc;
+package Misc;
 
 import java.util.Scanner;
 

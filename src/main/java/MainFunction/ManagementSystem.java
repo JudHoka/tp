@@ -1,6 +1,6 @@
-package main;
+package MainFunction;
 
-import misc.Parser;
+import Misc.Parser;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

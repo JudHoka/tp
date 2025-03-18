@@ -1,4 +1,4 @@
-package misc;
+package Misc;
 
 public class Parser {
     public static boolean isBye(String input) {
